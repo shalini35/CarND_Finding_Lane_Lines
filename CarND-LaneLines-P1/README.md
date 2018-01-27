@@ -23,7 +23,7 @@ after that, open the jupyter notebook P1.ipynb using the command:
     jupyter notebook P1.ipynb
 
 
-The Repo contains thw jupyter notebook P1.ipynb where the processing pipeline is implemented.
+The Repo contains the jupyter notebook P1.ipynb where the processing pipeline is implemented.
 
 
 
